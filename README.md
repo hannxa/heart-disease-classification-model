@@ -23,7 +23,7 @@ The dataset includes the following key features:
 - **Slope of the Peak Exercise ST Segment (slope)** (Feature 41)
 - **Number of Major Vessels Colored by Fluoroscopy (ca)** (Feature 44)
 - **Thalassemia (thal)** (Feature 51)
-- **
+- **Num diagnosis of heart disease (angiographic disease status) (Feature 58)
 
 ## Notebook Environment
 
